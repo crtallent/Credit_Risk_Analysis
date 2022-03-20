@@ -11,4 +11,7 @@ The data being evaluated is a [credit card dataset](https://github.com/crtallent
 * Combination approach (oversampling and undersampling) with SMOTEENN
 * Bias-reducing models with BalancedRandomForestClassifer and EasyEnsembleClassifer
 
+## Resources
 
+* Software: Python 3.7.6, Jupyter Notebook 7.29.0
+* Data Source: [LoanStats_2019Q1.csv](https://github.com/crtallent/Credit_Risk_Analysis/tree/main/Resources)
