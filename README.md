@@ -32,3 +32,5 @@ The preceding information was gathered for each of the matrices below.
 
 1. Niave Random Oversampling
 <img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/NRO.png" />
+2. SMOTE Oversampling
+<img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/SMOTE.png" />
