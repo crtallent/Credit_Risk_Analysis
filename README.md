@@ -16,3 +16,18 @@ The data being evaluated is a [credit card dataset](https://github.com/crtallent
 * Software: Python 3.7.6, Jupyter Notebook 7.29.0
 * Data Source: [LoanStats_2019Q1.csv](https://github.com/crtallent/Credit_Risk_Analysis/tree/main/Resources)
 * All code can be found [here](https://github.com/crtallent/Credit_Risk_Analysis).
+
+## Calculations
+
+The following matrices were measured to evaluate the performance of each method (TP = true positives, FP = false positives, FN = false negatives, TN = true negatives):
+
+1. Accuracy: the difference between predicted and actual values (TP + TN /(TP + FP + TN + FN)
+2. Precision: the number of true positives divided by the number of all positives (TP/(TP + FP))
+3. Sensitivity (aka Recall): TP / (TP + FN)
+4. f1 = 2 * precision * sensitivity / (precision + sensitivity)
+
+## Results
+
+The preceding information was gathered for each of the matrices below. 
+
+1. Niave Random Oversampling <img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/NRO.png" />
