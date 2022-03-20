@@ -24,23 +24,23 @@ The following matrices were measured to evaluate the performance of each method 
 1. Accuracy: the difference between predicted and actual values (TP + TN /(TP + FP + TN + FN)
 2. Precision: the number of true positives divided by the number of all positives (TP/(TP + FP))
 3. Sensitivity (aka Recall): TP / (TP + FN)
-4. f1 = 2 * precision * sensitivity / (precision + sensitivity)
+4. F1 = 2 * precision * sensitivity / (precision + sensitivity)
 
 ## Results
 
 The preceding information was gathered for each of the matrices below. 
 
-1. Niave Random Oversampling
+1. Niave Random Oversampling - Balanced Accuracy Score: 68%, Precision: 99%, Recall: 44%, F1 score: 61%
 <img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/NRO.png" />
-2. SMOTE Oversampling
+2. SMOTE Oversampling - Balanced Accuracy Score: 63%, Precision: 99%, Recall: 63%, F1 score: 77%
 <img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/SMOTE.png" />
-3. ClusterCentroids Undersampling
+3. ClusterCentroids Undersampling - Balanced Accuracy Score: 63%, Precision: 99%, Recall: 44%, F1 score: 61%
 <img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/Cluster.png" />
-4. SMOTEENN Combination Approach
+4. SMOTEENN Combination Approach - Balanced Accuracy Score: 52%, Precision: 99%, Recall: 61%, F1 score: 75%
 <img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/SMOTTEENN.png" />
-5. BalancedRandomForest Classifer
+5. BalancedRandomForest Classifer - Balanced Accuracy Score: 87%, Precision: 99%, Recall: 87%, F1 score: 93%
 <img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/BRF.png" />
-6. EasyEnsemble Classifer
+6. EasyEnsemble Classifer - Balanced Accuracy Score: 94%, Precision: 99%, Recall: 94%, F1 score: 97%
 <img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/EEC.png" />
 
 
