@@ -38,6 +38,8 @@ The preceding information was gathered for each of the matrices below.
 <img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/Cluster.png" />
 4. SMOTEENN Combination Approach
 <img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/SMOTTEENN.png" />
+5. BalancedRandomForest Classifer
+<img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/BRF.png" />
 
 
 
