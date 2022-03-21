@@ -37,7 +37,7 @@ The preceding information was gathered for each of the matrices below.
 3. ClusterCentroids Undersampling - Balanced Accuracy Score: 63%, Precision: 99%, Recall: 44%, F1 score: 61%
 <img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/Cluster.png" />
 4. SMOTEENN Combination Approach - Balanced Accuracy Score: 52%, Precision: 99%, Recall: 61%, F1 score: 75%
-<img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/SMOTTEENN.png" />
+<img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/SMOTEENN.png" />
 5. BalancedRandomForest Classifer - Balanced Accuracy Score: 87%, Precision: 99%, Recall: 87%, F1 score: 93%
 <img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/BRF.png" />
 6. EasyEnsemble Classifer - Balanced Accuracy Score: 94%, Precision: 99%, Recall: 94%, F1 score: 97%
