@@ -30,7 +30,7 @@ The following matrices were measured to evaluate the performance of each method 
 
 The preceding information was gathered for each of the matrices below. 
 
-1. Niave Random Oversampling - Balanced Accuracy Score: 68%, Precision: 99%, Recall: 44%, F1 score: 61%
+1. Naive Random Oversampling - Balanced Accuracy Score: 68%, Precision: 99%, Recall: 44%, F1 score: 61%
 <img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/NRO.png" />
 2. SMOTE Oversampling - Balanced Accuracy Score: 63%, Precision: 99%, Recall: 63%, F1 score: 77%
 <img src="https://github.com/crtallent/Credit_Risk_Analysis/blob/main/Resources/Images/SMOTE.png" />
